@@ -1,7 +1,7 @@
 # PixelGame Demo
 Access game: https://sean-sanii-nejad.github.io/PixelGame/
 <br />
-## Assets
+## Assets Downloaded (Free)
 Sprites
 <br />
 https://assetstore.unity.com/packages/2d/environments/pixel-art-bush-pack-279945
@@ -12,6 +12,8 @@ https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-
 Audio
 <br />
 https://www.youtube.com/watch?v=1D_Hghnr2JE
+<br />
+https://pixabay.com/sound-effects/main-door-opening-closing-38280/
 <br />
 ## Tools used to create my assets
 Drawing Sprites
