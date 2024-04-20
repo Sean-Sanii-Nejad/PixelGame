@@ -1,7 +1,6 @@
 # PixelGame Demo
 Access game: https://sean-sanii-nejad.github.io/PixelGame/
 <br />
-<br />
 ## Assets
 Sprites
 <br />
@@ -14,10 +13,19 @@ Audio
 <br />
 https://www.youtube.com/watch?v=1D_Hghnr2JE
 <br />
-<br />
 ## Tools used to create my assets
 Drawing Sprites
 <br />
 https://www.pixilart.com/draw?ref=home-page
 <br />
 https://imagecolorpicker.com/en
+<br />
+<br />
+Converting Files
+<br />
+https://cloudconvert.com/mp4-to-mp3
+<br />
+<br />
+Editing Audio Clips
+<br />
+[Microsoft ClipChamp](https://clipchamp.com/en/windows-video-editor/)
