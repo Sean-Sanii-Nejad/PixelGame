@@ -1,5 +1,7 @@
 # PixelGame Demo
-Access game: https://sean-sanii-nejad.github.io/PixelGame/
+Access game 
+<br />
+https://sean-sanii-nejad.github.io/PixelGame/
 <br />
 ## Assets Downloaded (Free)
 Sprites
