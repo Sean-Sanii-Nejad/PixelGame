@@ -19,6 +19,10 @@ https://pixabay.com/sound-effects/main-door-opening-closing-38280/
 <br />
 https://www.101soundboards.com/sounds/642992-snd-txtsans
 <br />
+https://youtu.be/pWK8Qs67ucY?list=PL8tAv4-ty9A48C_RROEbx0r3KtxMq4U8b
+<br />
+https://youtu.be/sZ7fOC8QaAw?list=PL8tAv4-ty9A48C_RROEbx0r3KtxMq4U8b
+<br />
 ## Tools used to create my assets
 Drawing Sprites
 <br />
